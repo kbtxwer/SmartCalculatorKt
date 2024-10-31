@@ -1,0 +1,34 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Smart Calculator (Kotlin)/*
+!/Smart Calculator (Kotlin)/task/
+/Smart Calculator (Kotlin)/task/*
+!/Smart Calculator (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Quantifiers/OK Computer/out/
+/Topics/Quantifiers/OK Computer/out/production/classes/
+/Topics/Regexps/Different colo(u)rs/out/
+/Topics/Regexps/Different colo(u)rs/out/production/classes/
+/Topics/Regexps/Help the teacher/out/
+/Topics/Regexps/Help the teacher/out/production/classes/
+/Topics/Regexps in use/Aaaaaaa to a/out/
+/Topics/Regexps in use/Aaaaaaa to a/out/production/classes/
+/Topics/Regexps in use/Nickname parser/out/
+/Topics/Regexps in use/Nickname parser/out/production/classes/
+/Topics/Regexps in use/Serial number for game/out/
+/Topics/Regexps in use/Serial number for game/out/production/classes/
+/Topics/Regexps in use/Theory/out/
+/Topics/Regexps in use/Theory/out/production/classes/
+/Topics/Regexps in use/Web colors/out/
+/Topics/Regexps in use/Web colors/out/production/classes/
